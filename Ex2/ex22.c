@@ -12,7 +12,7 @@
 #include <time.h>
 
 /*
- * David Bogoslavsky 316393974
+ * David Bogoslavsky
  */
 
 #define USER_PROG_TIME_LIMIT        5
