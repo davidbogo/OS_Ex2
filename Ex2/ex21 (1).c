@@ -10,7 +10,7 @@
 #include <strings.h>
 #include <ctype.h>
 
-//David Bogoslavsky 316393974
+//David Bogoslavsky
 
 #define FALSE   0
 #define TRUE    1
